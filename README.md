@@ -17,4 +17,4 @@ sweepfinder.sh
 
 ## 4) DILS
 Run_DILS.sh
-Config.yaml (example for one comparison)
+config.yaml (example file)
