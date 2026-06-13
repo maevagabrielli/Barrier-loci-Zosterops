@@ -18,3 +18,7 @@ sweepfinder.sh
 ## 4) DILS
 Run_DILS.sh
 config.yaml (example file)
+
+## 5) Statistical test overlap outliers
+circular_bootstrap_trio.R
+circular_bootstrap_pairwise.R
